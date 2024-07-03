@@ -1,1 +1,1 @@
-1Panel-dev/maxkb
+maxkb
